@@ -1,4 +1,4 @@
-function ticketSelect(id, isTrue){
+function ticketSelect(id, isTrue){ 
     console.log(id , isTrue);
   let quantity =  getQuantity(id);
     const singlePrice = getPrice(id)
